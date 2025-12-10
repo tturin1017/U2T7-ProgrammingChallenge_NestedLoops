@@ -1,5 +1,12 @@
 package com.example.project;
 
+/*
+1.Manually test first in the Runner class.
+2.Run ./gradlew test to run automated tests.
+3.Once you have completed the challenges, push to your repository.
+4.Submit at turninterminal.netlify.app
+*/
+
 public class NestedLoops {
                /*
 return the string below for given height=5

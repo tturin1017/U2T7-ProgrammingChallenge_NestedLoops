@@ -1,8 +1,8 @@
 package com.example.project;
 
-public class StringLoopsRunner {
+public class NestedLoopsRunner {
     public static void main(String[] args) {
-        
+     
     }
 }
 
